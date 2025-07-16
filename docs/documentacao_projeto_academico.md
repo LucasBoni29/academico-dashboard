@@ -73,15 +73,21 @@ Este sistema tem como objetivo fornecer às universidades e faculdades uma ferra
 
 ## 🛠️ Stack Tecnológica
 
-| Camada         | Tecnologia           |
-|----------------|----------------------|
-| Backend        | Java + Spring Boot   |
-| Frontend       | Angular + TypeScript |
-| Autenticação   | Keycloack            |
-| Banco de Dados | PostgreSQL           |
-| Infraestrutura | Docker + GitHub      |
+| Camada         | Tecnologia                     | Versão       |
+|----------------|--------------------------------|--------------|
+| Backend        | Java + Spring Boot             | Java 17 / Spring Boot 3.2.x |
+| Frontend       | Angular + TypeScript           | Angular 18 / TS 5.x |
+| Autenticação   | Keycloak                       | 24.x         |
+| Banco de Dados | PostgreSQL                     | 15.x         |
+| Infraestrutura | Docker + GitHub Actions        | Docker 24.x  |
+
 
 ---
+
+## 🧱 Diagrama da Stack Tecnológica
+
+![Stack Tecnológica](./assets/stack.png)
+
 
 ## 🔖 MVP – Produto Mínimo Viável
 
